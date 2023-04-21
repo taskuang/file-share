@@ -1,0 +1,14 @@
+---
+:id: 122092945
+:submitters:
+- :name: Ryan Chan
+  :email: rychan3@berkeley.edu
+- :name: Tasman Kuang
+  :email: taskuang@berkeley.edu
+:created_at: !ruby/object:ActiveSupport::TimeWithZone
+  utc: 2022-04-16 04:46:41.256934000 Z
+  zone: !ruby/object:ActiveSupport::TimeZone
+    name: America/Los_Angeles
+  time: 2022-04-15 21:46:41.256934000 Z
+:status: processed
+:score: 68.6628
